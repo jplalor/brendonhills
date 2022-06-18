@@ -13,6 +13,7 @@ enableEmoji = true
 googleAnalytics = ""
 
 enableInlineShortcodes = true
+canonifyURLs = true
 
 [markup.goldmark.renderer]
   unsafe = true
